@@ -1,0 +1,8 @@
+# Ignore Python artifacts
+/**/__pycache__
+
+# Ignore data directory
+data/img_align_celeba
+images
+models
+logs/

@@ -24,8 +24,10 @@ We use the CelebA dataset for training and testing. To download and prepare the 
 - see config.py and models.py
 
 ## Results
-![exp4.jpg](..%2F..%2F..%2Ffinal%2Fexp4.jpg)
-Our report `5aua0-group23-report.pdf` describes the architecture of the model and the training procedure.
+![exp4.jpg](/results/sample.jpg)
+
+
+Our report `results/5aua0-group23-report.pdf` describes the architecture of the model and the training procedure.
 ## Reference
 [CE code](https://github.com/eriklindernoren/PyTorch-GAN)
 [Context Encoders: Feature Learning by Inpainting](https://openaccess.thecvf.com/content_cvpr_2016/papers/Pathak_Context_Encoders_Feature_CVPR_2016_paper.pdf)
